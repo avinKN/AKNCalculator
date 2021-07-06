@@ -1,4 +1,4 @@
-# calculator_app_flutter_application
+# calculator_currencyconverter_app_flutter
 
 A new Flutter application.
 
